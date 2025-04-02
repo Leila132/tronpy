@@ -31,7 +31,9 @@
 ## Использование
 
 1. GET /tronpy_manager/
+
 Response:
+
 ```JSON
 {
     {
